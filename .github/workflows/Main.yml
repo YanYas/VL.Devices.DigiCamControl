@@ -2,9 +2,9 @@ name: VL_CamControl
 
 on:
   push:
-    branches: [ master ]
+    branches: [  YanYas-Build-Config-1 ]
   pull_request:
-    branches: [ master ]
+    branches: [  YanYas-Build-Config-1 ]
     paths-ignore:
       - README.md
 
